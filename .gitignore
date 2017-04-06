@@ -1,0 +1,4 @@
+*.pyc
+embedding/driver
+data/input/
+data/output/
