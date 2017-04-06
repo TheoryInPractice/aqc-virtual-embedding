@@ -1,3 +1,5 @@
+<img align="right" src="logo.png">
+
 # Virtual Hardware Embedding Suite for Adiabatic Quantum Computing
 
 ## 1. Introduction
