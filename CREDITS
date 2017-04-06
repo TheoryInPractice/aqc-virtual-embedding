@@ -1,0 +1,6 @@
+Credits
+This application uses Open Source components. You can find the source code of their open source projects along with license information below. We acknowledge and are grateful to these developers for their contributions to open source.
+
+Project: NetworkX https://github.com/networkx/networkx
+Copyright (C) 2004-2016, NetworkX Developers. All right reserved.
+License (3-Clause BSD) https://github.com/networkx/networkx/blob/master/LICENSE.txt

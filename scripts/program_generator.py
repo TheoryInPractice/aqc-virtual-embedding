@@ -2,6 +2,7 @@
 Script for generating experiment input graphs.
 """
 
+
 import networkx as nx
 import os
 import random
@@ -26,6 +27,12 @@ def _random_subset(seq, m):
     set
         The sample from seq of size m
     """
+    #    Copyright (C) 2004-2016 by
+    #    Aric Hagberg <hagberg@lanl.gov>
+    #    Dan Schult <dschult@colgate.edu>
+    #    Pieter Swart <swart@lanl.gov>
+    #    All rights reserved.
+    #    BSD license.
     targets = set()
     while len(targets) < m:
         x = random.choice(seq)
@@ -50,7 +57,12 @@ def barabasi_albert_graph(n, m, seed=None):
     NetworkX Graph
         The generated Barabasi-Albert graph
     """
-
+    #    Copyright (C) 2004-2016 by
+    #    Aric Hagberg <hagberg@lanl.gov>
+    #    Dan Schult <dschult@colgate.edu>
+    #    Pieter Swart <swart@lanl.gov>
+    #    All rights reserved.
+    #    BSD license.
     if m < 1 or m >= n:
         raise nx.NetworkXError(
             "Barabasi-Albert network must have m>=1 and m<n, m=%d,n=%d"
