@@ -109,7 +109,6 @@ Another use of this code is to compute embeddings directly using the C++ code. I
    * ``scripts/plot.py`` is used to plot the output of a batch experiment.
    * ``scripts/program_generator.py`` is used by ``experiment.py`` to generate input graphs.
    * ``scripts/utilities.py`` is used to store common routines used by the other scripts.
-4.
 
 ### 5. Extensions and Future Work
 
