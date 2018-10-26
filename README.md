@@ -29,7 +29,20 @@ and embedding algorithms.
 
 ## 2. How to cite
 
-Coming soon with arxiv link!
+Please cite the paper corresponding to this repository:
+
+```
+@article{goodrich2018optimizing,
+  title={Optimizing adiabatic quantum program compilation using a graph-theoretic framework},
+  author={Goodrich, Timothy D and Sullivan, Blair D and Humble, Travis S},
+  journal={Quantum Information Processing},
+  volume={17},
+  number={5},
+  pages={118},
+  year={2018},
+  publisher={Springer}
+}
+```
 
 ## 3. How to run
 
